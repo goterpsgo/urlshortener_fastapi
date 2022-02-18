@@ -1,1 +1,1 @@
-# goterpsgo-urlshortener_fastapi
+# urlshortener_fastapi
